@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Vishal%20Kumar%20Yadav&fontSize=45&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Full+Stack+Developer+(MERN);Backend+developer+%7C+API+Architecture;React+Application+Developer;Generative+AI+Application+Builder;Building+Scalable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=1050&height=100&lines=Hi,+I+am+Vishal+Kumar+Yadav;Full+Stack+Developer+(MERN);Backend+Developer+%7C+API+Architecture;React+Application+Developer;Generative+AI+Application+Builder;Building+Scalable+Systems" alt="Typing Animation" />
 </div>
 
 ---
