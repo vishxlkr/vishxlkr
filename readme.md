@@ -1,89 +1,83 @@
-# Vishal Kumar Yadav
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Vishal%20Kumar%20Yadav&fontSize=35&fontColor=ffffff" />
+</p>
 
-Full Stack Developer (MERN)  
-B.Tech – National Institute of Technology, Rourkela (CGPA: 7.84)  
-Codeforces Specialist (Max Rating: 1438)
-
----
-
-## About Me
-
-I am a final-year B.Tech student at NIT Rourkela with strong foundations in Data Structures & Algorithms and Backend Development.
-
-I build scalable full-stack applications with secure authentication, role-based access control, and structured database design.
-
-My primary focus areas:
-
-- Backend Engineering
-- System Design Fundamentals
-- Problem Solving (Competitive Programming)
+<h3 align="center">Full Stack Developer | MERN Stack | Codeforces Specialist</h3>
 
 ---
 
-## Work Experience
+## 👨‍💻 About Me
 
-### Full Stack Developer
+🎓 B.Tech – National Institute of Technology, Rourkela (CGPA: 7.84)  
+💡 Strong foundation in Data Structures & Algorithms  
+🏆 Codeforces Specialist (Max Rating: 1438)
 
-Iota Design & Innovations Lab (May 2025 – July 2025)
-
-- Built **SmartDine**, a QR-based restaurant management system serving 30+ tables.
-- Developed authentication flows and responsive frontend.
-- Designed MongoDB schemas for owner and restaurant management.
-- Implemented JWT-based authentication and access control.
+I build scalable full-stack applications with secure authentication, role-based access control, and structured database design.  
+Interested in Backend Engineering & System Design.
 
 ---
 
-## Projects
+## 💼 Work Experience
 
-### IPDIMS – Conference Management System
+### Full Stack Developer – Iota Design & Innovations Lab (May 2025 – July 2025)
 
-MERN | JWT | RBAC | Cloudinary | Nodemailer
-
-- Architected a 3-role system (Admin, Reviewer, Author).
-- Implemented secure JWT authentication and middleware-based RBAC.
-- Automated submission lifecycle with email notifications.
-- Integrated Cloudinary for research document uploads.
+- Built **SmartDine**, a QR-based restaurant management system (30+ tables)
+- Designed MongoDB schemas & access control
+- Implemented JWT authentication
+- Developed responsive frontend interfaces
 
 ---
 
-### QuickChat – Real-Time Messaging Application
+## 🚀 Featured Projects
 
-MERN | Socket.IO | JWT | MVC Architecture
+### 🔹 IPDIMS – Conference Management System
 
-- Built a real-time chat system with instant message delivery.
-- Designed secure REST APIs for authentication and profile management.
-- Implemented scalable MongoDB schemas for conversations.
-- Enabled online user tracking using Socket.IO.
+`MERN | JWT | RBAC | Cloudinary | Nodemailer`
 
----
-
-## Technical Skills
-
-**Languages:**  
-C, C++, Python, JavaScript
-
-**Frontend:**  
-React.js, Tailwind CSS
-
-**Backend:**  
-Node.js, Express.js, REST APIs, JWT
-
-**Databases:**  
-MongoDB, PostgreSQL
-
-**Tools:**  
-Git, Docker, AWS (Basic), Linux, CI/CD
+- 3 role-based dashboards (Admin, Reviewer, Author)
+- Secure authentication + OTP verification
+- Automated submission workflow
+- Cloud-based research document storage
 
 ---
 
-## Competitive Programming
+### 🔹 QuickChat – Real-Time Messaging App
 
-- Codeforces Specialist (Max Rating: 1438)
-- Strong in DSA, DBMS, OS, CN
+`MERN | Socket.IO | MVC | JWT`
+
+- Instant messaging with online user tracking
+- REST APIs with secure middleware
+- Scalable MongoDB schema design
 
 ---
 
-## Contact
+## 🛠 Tech Stack
 
-LinkedIn: https://linkedin.com/in/vishxlkr  
-Email: vishxlkr@gmail.com
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,mongodb,postgres,docker,aws,linux,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishxlkr&show_icons=true&theme=github_dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vishxlkr">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vishxlkr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+</p>
