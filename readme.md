@@ -3,7 +3,7 @@
 </p> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=1050&height=100&lines=Hi,+I+am+Vishal+Kumar+Yadav;Full+Stack+Developer+(MERN);Backend+Developer+%7C+API+Architecture;React+Application+Developer;Generative+AI+Developer;Building+Scalable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=1050&height=100&lines=Hi,+I+am+Vishal;Full+Stack+Developer+(MERN);Backend+Developer+%7C+API+Architecture;React+Application+Developer;Generative+AI+Developer;Building+Scalable+Systems" alt="Typing Animation" />
 </div>
 
 ---
